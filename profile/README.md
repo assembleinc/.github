@@ -17,15 +17,15 @@ Here are some of the exciting open source projects we are working on:
 **Repo** https://github.com/ASMBL-engineering/asm-config
 
 ### 🎛️ ASM UI
-**Description**: A style agnostic React component library.
+**Description**: A style agnostic React component library.  
 **Repo**: https://github.com/ASMBL-engineering/asm-ui
 
 ### 💅 ASM UI Themes
-**Description**: Theme packs for ASM UI to style components
+**Description**: Theme packs for ASM UI to style components.  
 **Repo**: https://github.com/ASMBL-engineering/asm-ui-themes
 
 ### 📘 Blueprint
-**Description**: A library for displaying various data types in a UI styled as a blueprint
+**Description**: A library for displaying various data types in a UI styled as a blueprint.  
 **Repo**: https://github.com/ASMBL-engineering/blueprint
 
 ## Get Involved
