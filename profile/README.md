@@ -1,4 +1,4 @@
-# Welcome to ASMBL Engineering on GitHub! 👋
+# Welcome to ASMBL on GitHub! 👋
 
 ![Logo](https://engineering.assembleinc.com/images/asm_logos/default.svg)
 
