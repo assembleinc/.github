@@ -1,6 +1,6 @@
 # Welcome to ASMBL on GitHub! 👋
 
-![Logo]([https://engineering.assembleinc.com/images/asm_logos/default.svg](https://avatars.githubusercontent.com/u/35704161?s=200&v=4))
+![Logo](https://avatars.githubusercontent.com/u/35704161?s=200&v=4)
 
 ## About Us
 
